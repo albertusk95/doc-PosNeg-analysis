@@ -31,3 +31,6 @@ It'll take a long enough time as it needs to load the model<br /><br />
 ===== Classified instance =====<br />
 Class predicted: no
 
+-----
+
+You can get the original corpus file from https://www.sfu.ca/~mtaboada/research/SFU_Review_Corpus.html
